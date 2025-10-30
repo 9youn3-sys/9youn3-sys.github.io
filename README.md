@@ -2,7 +2,8 @@
 
 11시53분 수정함 ㅎ
 
-[❤] (https://i.pinimg.com/originals/d9/8f/ea/d98fea1d8e5d2ef7f844aa8c0a501dd7.jpg]
+![대체 텍스트](https://www.emojiall.com/images/120/softbank/1f604.png)](https://github.com/9youn3-sys/9youn3-sys.github.io)
+
 
 # 🥗 밀키트 플랫폼 — EasyMeal
 
