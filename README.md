@@ -2,8 +2,8 @@
 
 11시53분 수정함 ㅎ
 
-![대체 텍스트](https://www.emojiall.com/images/120/softbank/1f604.png)](https://github.com/9youn3-sys/9youn3-sys.github.io)
 
+ <a href="[https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4](https://github.com/9youn3-sys/9youn3-sys.github.io)"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>
 
 # 🥗 밀키트 플랫폼 — EasyMeal
 
