@@ -52,3 +52,26 @@
 git clone https://github.com/yourname/freshmeal.git
 cd freshmeal
 
+
+📈 향후 계획
+
+ AI 기반 개인 맞춤 식단 추천
+
+ B2B 주문 기능 (식당·단체 납품용)
+
+ 구독형 밀키트 서비스 출시
+
+ 앱 출시 (React Native)
+
+👥 팀 소개
+이름	역할	담당
+김민수	PM / Backend	기획, 데이터 모델링, API 설계
+이서연	Frontend	UI/UX, 프론트 개발
+박지훈	Infra	배포 및 서버 관리
+최유진	Designer	브랜드 디자인, 프로토타입 제작
+📄 라이선스
+
+이 프로젝트는 MIT License
+ 하에 배포됩니다.
+
+© 2025 FreshMeal Inc. All rights reserved.
