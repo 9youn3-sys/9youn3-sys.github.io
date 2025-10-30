@@ -2,7 +2,7 @@
 
 11시53분 수정함 ㅎ
 
-[❤](https://i.pinimg.com/originals/d9/8f/ea/d98fea1d8e5d2ef7f844aa8c0a501dd7.jpg]
+[❤] (https://i.pinimg.com/originals/d9/8f/ea/d98fea1d8e5d2ef7f844aa8c0a501dd7.jpg]
 
 # 🥗 밀키트 플랫폼 — EasyMeal
 
