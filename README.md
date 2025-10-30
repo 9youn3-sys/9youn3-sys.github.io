@@ -2,7 +2,7 @@
 
 11시53분 수정함 ㅎ
 
-
+13시 35분 수정함
  <a href="[https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4](https://github.com/9youn3-sys/9youn3-sys.github.io)"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>
 
 # 🥗 밀키트 플랫폼 — EasyMeal
